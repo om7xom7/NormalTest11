@@ -1,4 +1,5 @@
-clear
+import os
+os.system("clear")
 
 print('______________________')
 print('|                     |')
