@@ -1,3 +1,5 @@
+clear
+
 print('______________________')
 print('|                     |')
 print('|        HELLO        |')
