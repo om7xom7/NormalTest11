@@ -1,11 +1,7 @@
 import os
 os.system("clear")
 
-print('______________________')
-print('|                     |')
-print('|        HELLO        |')
-print('|                     |')
-print('|        Friend       |')
-print('|                     |')
-print('|                     |')
-print('_______________________')
+while true:
+ print("Hacked")
+
+true
