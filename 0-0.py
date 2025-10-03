@@ -1,7 +1,7 @@
 import os
 os.system("clear")
 
-while true:
+while True:
  print("Hacked")
 
-true
+True
