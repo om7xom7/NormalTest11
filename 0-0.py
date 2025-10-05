@@ -1,11 +1,7 @@
 import os
 import time
 os.system("clear")
-
-while True:
- print("Hacked")
-
-True
-time.sleep(1)
-False
+print("Hello.")
+time.sleep(2)
+print("Goodbye")
 os.system("exit")
