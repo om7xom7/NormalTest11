@@ -8,3 +8,4 @@ while True:
 True
 time.sleep(1)
 False
+os.system("exit")
