@@ -1,7 +1,7 @@
 import os
 import time
 print("Hello.")
-time.slepp(1)
+time.sleep(1)
 print("This is just a test.")
 time.sleep(1)
 print("I will close this code soon")
